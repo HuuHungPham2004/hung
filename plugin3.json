@@ -1,0 +1,19 @@
+{
+    "metadata": {
+      "author": "Cá Mụp",
+      "description": ""
+    },
+    "data": [
+      {
+          "name": "m.wfxs.tw",
+          "author": "Cá Mụp",
+          "path": "https://raw.githubusercontent.com/HuuHungPham2004/hung/main/plugin.zip",
+          "version": 4,
+          "source": "https://m.wfxs.tw/",
+          "description": "Đọc truyện trên trang https://m.wfxs.tw/",
+          "type":  "chineses_novel",
+          "locale": "zh_CN"
+     }
+    ]
+}
+  
