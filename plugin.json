@@ -1,0 +1,294 @@
+{
+    "metadata": {
+      "author": "Cá Mụp Cắn Cáp",
+      "description": ""
+    },
+    "data": [
+      {
+        "name": "Xklxsw",
+        "author": "Cá Mụp Cắn Cáp",
+        "path": "https://raw.githubusercontent.com/hishirooo/vbook-ext/master/xklxsw/plugin.zip",
+        "version": 5,
+        "source": "https://www.xklxsw.com",
+        "icon": "https://raw.githubusercontent.com/hishirooo/vbook-ext/master/xklxsw/icon.png",
+        "description": "Đọc truyện trên trang Xklxsw.com",
+        "type":  "chineses_novel",
+        "locale": "zh_CN"
+      },
+      {
+        "name": "Jpmtl",
+        "author": "Cá Mụp Cắn Cáp",
+        "path": "https://raw.githubusercontent.com/hishirooo/vbook-ext/master/jpmtl/plugin.zip",
+        "version": 1,
+        "source": "https://www.jpmtl.com",
+        "icon": "https://raw.githubusercontent.com/hishirooo/vbook-ext/master/jpmtl/icon.png",
+        "description": "Đọc truyện trên trang Jpmtl.com"
+      },
+      {
+        "name": "Novell Full",
+        "author": "Cá Mụp Cắn Cáp",
+        "path": "https://raw.githubusercontent.com/hishirooo/vbook-ext/master/novelfull/plugin.zip",
+        "version": 2,
+        "source": "https://www.novelfull.com",
+        "icon": "https://raw.githubusercontent.com/hishirooo/vbook-ext/master/novelfull/icon.png",
+        "description": "Đọc truyện trên trang Novellfull.com"
+      },
+      {
+        "name": "Lnmtl",
+        "author": "Cá Mụp Cắn Cáp",
+        "path": "https://raw.githubusercontent.com/hishirooo/vbook-ext/master/Lnmtl/plugin.zip",
+        "version": 1,
+        "source": "https://www.Lnmtl.com",
+        "icon": "https://raw.githubusercontent.com/hishirooo/vbook-ext/master/Lnmtl/icon.png",
+        "description": "Đọc truyện trên trang Lnmtl.com"
+      },
+      {
+        "name": "Yushuwuy",
+        "author": "Cá Mụp Cắn Cáp",
+        "path": "https://raw.githubusercontent.com/hishirooo/vbook-ext/master/yushuwuy/plugin.zip",
+        "version": 3,
+        "source": "https://www.yushuwuy.com",
+        "icon": "https://raw.githubusercontent.com/hishirooo/vbook-ext/master/yushuwuy/icon.png",
+        "description": "Đọc truyện trên trang Yushuwuy.com",
+        "type":  "chineses_novel",
+        "locale": "zh_CN"
+      },
+      {
+        "name": "Otakusan",
+        "author": "Cá Mụp Cắn Cáp",
+        "path": "https://raw.githubusercontent.com/hishirooo/vbook-ext/master/otakusan/plugin.zip",
+        "version": 7,
+        "source": "https://otakusan.net/",
+        "icon": "https://raw.githubusercontent.com/hishirooo/vbook-ext/master/otakusan/icon.png",
+        "description": "Đọc truyện trên trang Otakusan.net"
+      },
+      {
+        "name": "Mangaxy.com",
+        "author": "Cá Mụp Cắn Cáp",
+        "path": "https://raw.githubusercontent.com/hishirooo/vbook-ext/master/mangaxy/plugin.zip",
+        "version": 3,
+        "source": "https://mangaxy.com/",
+        "icon": "https://raw.githubusercontent.com/hishirooo/vbook-ext/master/mangaxy/icon.png",
+        "description": "Đọc truyện trên trang Mangaxy.com"
+      }
+      ,
+      {
+        "name": "256wxc.com",
+        "author": "Cá Mụp Cắn Cáp",
+        "path": "https://raw.githubusercontent.com/hishirooo/vbook-ext/master/256wxc/plugin.zip",
+        "version": 5,
+        "source": "https://www.256wenku.com",
+        "icon": "https://raw.githubusercontent.com/hishirooo/vbook-ext/master/256wxc/icon.png",
+        "description": "change url page",
+        "type":  "chineses_novel",
+        "locale": "zh_CN"
+      }
+      ,
+      {
+        "name": "Bato.to",
+        "author": "Cá Mụp Cắn Cáp",
+        "path": "https://raw.githubusercontent.com/hishirooo/vbook-ext/master/bato/plugin.zip",
+        "version": 3,
+        "source": "https://bato.to",
+        "icon": "https://raw.githubusercontent.com/hishirooo/vbook-ext/master/bato/icon.png",
+        "description": "Đọc truyện trên trang https://bato.to"
+      },
+      {
+        "name": "ja.mangatoro.com",
+        "author": "Cá Mụp Cắn Cáp",
+        "path": "https://raw.githubusercontent.com/hishirooo/vbook-ext/master/JAmangatoro/plugin.zip",
+        "version": 1,
+        "source": "https://ja.mangatoro.com/",
+        "icon": "https://raw.githubusercontent.com/hishirooo/vbook-ext/master/JAmangatoro/icon.png",
+        "description": "Đọc truyện trên trang https://ja.mangatoro.com/"
+      },
+      {
+        "name": "Vcomycs.com",
+        "author": "Cá Mụp Cắn Cáp",
+        "path": "https://raw.githubusercontent.com/hishirooo/vbook-ext/master/vcomycs/plugin.zip",
+        "version": 5,
+        "source": "https://Vcomycs",
+        "icon": "https://raw.githubusercontent.com/hishirooo/vbook-ext/master/vcomycs/icon.png",
+        "description": "Đọc truyện trên trang https://Vcomycs"
+      },
+      {
+        "name": "Tủ sách xinh xinh",
+        "author": "Cá Mụp Cắn Cáp",
+        "path": "https://raw.githubusercontent.com/hishirooo/vbook-ext/master/tusachxinhxinh/plugin.zip",
+        "version": 4,
+        "source": "https://tusachxinh.info/",
+        "icon": "https://raw.githubusercontent.com/hishirooo/vbook-ext/master/tusachxinhxinh/icon.png",
+        "description": "Đọc truyện trên trang https://tusachxinh.info/"
+      },
+      {
+        "name": "Webtruyen Online Z",
+        "author": "Cá Mụp Cắn Cáp",
+        "path": "https://raw.githubusercontent.com/hishirooo/vbook-ext/master/webtruyenonlinez/plugin.zip",
+        "version": 7,
+        "source": "http://truyen210.net /",
+        "icon": "https://raw.githubusercontent.com/hishirooo/vbook-ext/master/webtruyenonlinez/icon.png",
+        "description": "Đọc truyện trên trang http://webtruyenonlinez.com/"
+      },
+      {
+        "name": "Truyện 210",
+        "author": "Cá Mụp Cắn Cáp",
+        "path": "https://raw.githubusercontent.com/hishirooo/vbook-ext/master/truyen210/plugin.zip",
+        "version": 2,
+        "source": "http://truyen210.net/",
+        "icon": "https://raw.githubusercontent.com/hishirooo/vbook-ext/master/truyen210/icon.png",
+        "description": "Đọc truyện trên trang truyen210.net"
+      }
+      ,
+      {
+        "name": "Hentaifox.com",
+        "author": "Cá Mụp Cắn Cáp",
+        "path": "https://raw.githubusercontent.com/hishirooo/vbook-ext/master/hentaifox/plugin.zip",
+        "version": 3,
+        "source": "http://hentaifox.com/",
+        "icon": "https://raw.githubusercontent.com/hishirooo/vbook-ext/master/hentaifox/icon.png",
+        "description": "Đọc truyện trên trang http://hentaifox.com/"
+      }
+      ,
+      {
+        "name": "Dichtruyen Org",
+        "author": "Cá Mụp Cắn Cáp",
+        "path": "https://raw.githubusercontent.com/hishirooo/vbook-ext/master/dichtruyen/plugin.zip",
+        "version": 5,
+        "source": "https://dichtruyen.org/",
+        "icon": "https://raw.githubusercontent.com/hishirooo/vbook-ext/master/dichtruyen/icon.png",
+        "description": "Đọc truyện trên trang https://dichtruyen.org/"
+      }
+      ,
+      {
+        "name": "TruyenKK",
+        "author": "Cá Mụp Cắn Cáp",
+        "path": "https://raw.githubusercontent.com/hishirooo/vbook-ext/master/truyenkk1/plugin.zip",
+        "version": 12,
+        "source": "https://truyenkkz.com/",
+        "icon": "https://raw.githubusercontent.com/hishirooo/vbook-ext/master/truyenkk1/icon.png",
+        "description": "Truyện tranh, truyện chữ tùm lum..."
+      }
+      ,
+      {
+        "name": "HentaiVV",
+        "author": "Cá Mụp Cắn Cáp",
+        "path": "https://raw.githubusercontent.com/hishirooo/vbook-ext/master/hentaivv/plugin.zip",
+        "version": 5,
+        "source": "https://hentaivv1.com/",
+        "icon": "https://raw.githubusercontent.com/hishirooo/vbook-ext/master/hentaivv/icon.png",
+        "description": "Đọc hentai tại https://hentaivv1.com/"
+      },
+      {
+        "name": "Box Truyện Tranh",
+        "author": "Cá Mụp Cắn Cáp",
+        "path": "https://raw.githubusercontent.com/hishirooo/vbook-ext/master/boxtruyentranh/plugin.zip",
+        "version": 2,
+        "source": "https://boxtruyentranh.net/",
+        "icon": "https://raw.githubusercontent.com/hishirooo/vbook-ext/master/boxtruyentranh/icon.png",
+        "description": "Đọc truyện tranh tại https://boxtruyentranh.net/"
+      }
+      ,
+      {
+        "name": "Truyen Conect .Com",
+        "author": "Cá Mụp Cắn Cáp",
+        "path": "https://raw.githubusercontent.com/hishirooo/vbook-ext/master/truyenconect/plugin.zip",
+        "version": 4,
+        "source": "https://truyenconect.com/",
+        "icon": "https://raw.githubusercontent.com/hishirooo/vbook-ext/master/truyenconect/icon.png",
+        "description": "Đọc truyện tại https://truyenconect.com/"
+      }
+      ,
+      {
+        "name": "m Dahexs .Net",
+        "author": "Cá Mụp Cắn Cáp",
+        "path": "https://raw.githubusercontent.com/hishirooo/vbook-ext/master/mdahexs/plugin.zip",
+        "version": 2,
+        "source": "https://m.dahexs.net/",
+        "icon": "https://raw.githubusercontent.com/hishirooo/vbook-ext/master/mdahexs/icon.png",
+        "description": "Đọc truyện tại https://m.dahexs.net/"
+      }
+      ,
+      {
+        "name": "Sxyxht .Com",
+        "author": "Cá Mụp Cắn Cáp",
+        "path": "https://raw.githubusercontent.com/hishirooo/vbook-ext/master/sxyxht/plugin.zip",
+        "version": 5,
+        "source": "https://m.sxyxht.com/",
+        "icon": "https://raw.githubusercontent.com/hishirooo/vbook-ext/master/sxyxht/icon.png",
+        "description": "Đọc truyện tại https://m.sxyxht.com/"
+        
+      }
+      ,
+      {
+        "name": "Allporncomic .Com",
+        "author": "Cá Mụp Cắn Cáp",
+        "path": "https://raw.githubusercontent.com/hishirooo/vbook-ext/master/allporncomic/plugin.zip",
+        "version": 3,
+        "source": "https://allporncomic.com/",
+        "icon": "https://raw.githubusercontent.com/hishirooo/vbook-ext/master/allporncomic/icon.png",
+        "description": "Đọc truyện hentai tại https://allporncomic.com/",
+        "type": "comic",
+        "tag": "nsfw"
+      }
+      ,
+      {
+        "name": "Kocr.Net (Đam mỹ)",
+        "author": "Cá Mụp Cắn Cáp",
+        "path": "https://raw.githubusercontent.com/hishirooo/vbook-ext/master/kocr/plugin.zip",
+        "version": 2,
+        "source": "https://kocr.net/",
+        "icon": "https://raw.githubusercontent.com/hishirooo/vbook-ext/master/kocr/icon.png",
+        "description": "Đọc truyện đam mỹ tại https://kocr.net/",
+        "type": "comic",
+        "tag": "nsfw"
+      }
+      ,
+      {
+        "name": "Manhwas Men",
+        "author": "Cá Mụp Cắn Cáp",
+        "path": "https://raw.githubusercontent.com/hishirooo/vbook-ext/master/ManhwasMen/plugin.zip",
+        "version": 2,
+        "source": "https://manhwas.men/",
+        "icon": "https://raw.githubusercontent.com/hishirooo/vbook-ext/master/ManhwasMen/icon.png",
+        "description": "Đọc truyện 18+ tại https://manhwas.men/",
+        "type": "comic",
+        "tag": "nsfw"
+      }
+      ,
+      {
+        "name": "Feiszw.com",
+        "author": "Cá Mụp Cắn Cáp",
+        "path": "https://raw.githubusercontent.com/hishirooo/vbook-ext/master/feiszw/plugin.zip",
+        "version": 9,
+        "source": "https://www.feiazw.com",
+        "icon": "https://raw.githubusercontent.com/hishirooo/vbook-ext/master/feiszw/icon.png",
+        "description": "Đọc truyện tiếng trung tại https://www.feiazw.com",
+        "type":  "chineses_novel",
+        "locale": "zh_CN"
+      }
+      ,
+      {
+        "name": "Dragonball Wiki",
+        "author": "Cá Mụp Cắn Cáp",
+        "path": "https://raw.githubusercontent.com/hishirooo/vbook-ext/master/dragonballwiki/plugin.zip",
+        "version": 1,
+        "source": "https://dragonballwiki.net/doctruyen/",
+        "icon": "https://raw.githubusercontent.com/hishirooo/vbook-ext/master/dragonballwiki/icon.png",
+        "description": "Đọc truyện tại dragonballwiki.net",
+        "type":  "comic",
+        "locale": "vi-VN"
+      }
+      ,
+      {
+  "name": "m.wfxs.tw",
+  "author": "Unknown",
+  "path": "https://raw.githubusercontent.com/hishirooo/vbook-ext/master/WFXS/plugin.zip",
+  "version": 1,
+  "source": "https://m.wfxs.tw/",
+  "icon": "https://raw.githubusercontent.com/hishirooo/vbook-ext/master/WFXS/icon.png",
+  "description": "Đọc truyện trên trang https://m.wfxs.tw/"
+     }
+    ]
+    
+}
+  
